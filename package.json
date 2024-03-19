@@ -2,7 +2,7 @@
   "name": "test_app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://ch1nya.github.io/test_app",
+  "homepage": "https://ch1nya.github.io/test_app/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
